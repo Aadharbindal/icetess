@@ -1,2 +1,2 @@
 # ICT
-a website having conference 
+a website having conference
